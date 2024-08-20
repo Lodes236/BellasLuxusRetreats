@@ -1,6 +1,6 @@
 <template>
     <header>
-        <img class="logo" src="@/assets/img/bellas-luxus-retreat_black.png" alt="logo" />
+        <img class="logo" src="@/assets/img/bellas-luxus-retreat_black-text.png" alt="logo" />
         <div>
             <ul>
                 <li><a href="http://">Startseite</a></li>
