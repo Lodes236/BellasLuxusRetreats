@@ -1,0 +1,23 @@
+$primary-color: #E9EDC9;
+$primary-color-dark: #CCD5AE;
+
+$secondary-color: #FAEDCD;
+$secondary-color-dark: #D4A373;
+
+$text-color: #1d1610;
+$black: #1d1610;
+$white: rgb(255, 254, 246);
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: $white;
+    padding: 0;
+    margin: 0;
+    color: $text-color;
+}
+
+a {
+    text-decoration: none;
+    color: $text-color;
+}
