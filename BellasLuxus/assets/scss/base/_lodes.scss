@@ -1,0 +1,40 @@
+// S I Z E
+.w-30  {
+    width: 30%;
+}
+
+.w-35  {
+    width: 35%;
+}
+
+.w-40  {
+    width: 40%;
+}
+
+.w-45  {
+    width: 45%;
+}
+
+.w-50  {
+    width: 50%;
+}
+
+.w-55  {
+    width: 55%;
+}
+
+.w-65  {
+    width: 65%;
+}
+
+.w-100  {
+    width: 100%;
+}
+
+// G R I D
+.box {
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: $vert-gap 0;
+}

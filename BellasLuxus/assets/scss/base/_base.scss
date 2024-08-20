@@ -8,6 +8,8 @@ $text-color: #1d1610;
 $black: #1d1610;
 $white: rgb(255, 254, 246);
 
+$vert-gap: 50px;
+
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -21,4 +23,18 @@ body {
 a {
     text-decoration: none;
     color: $text-color;
+
+    &:hover {
+        color: $secondary-color-dark;
+    }
+}
+
+// T E X T
+
+.t-right {
+    text-align: right;
+}
+
+.t-center {
+    text-align: center;
 }

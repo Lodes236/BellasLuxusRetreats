@@ -1,0 +1,36 @@
+.element-cards {
+
+    .element-cards-text {
+
+        padding-bottom: $vert-gap;
+
+        p {
+            margin: 0 auto;
+            width: 50%;
+        }
+    }
+
+    .element-cards-boxes {
+
+        .element-cards-boxes-img{
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat;
+            height: 250px;
+        }
+
+        div {
+            border-radius: 15px;
+            padding: 30px 0;
+        }
+
+        img {
+            border-radius: 40px;
+        }
+
+        p {
+            width: 80%;
+            font-size: 20px;
+        }
+    }    
+}

@@ -1,0 +1,24 @@
+header {
+    background-color: $primary-color;
+    padding: 15px 25px;
+    box-shadow: 0 4px 16px $primary-color-dark;
+    position: absolute;
+    top: 0;
+    width: calc(100% - 50px);
+
+    .logo {
+        width: 150px;
+        height: auto;
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        margin: 0 10px;
+        font-size: 22px;
+    }
+}
